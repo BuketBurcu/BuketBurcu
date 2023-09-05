@@ -9,7 +9,7 @@
  </a>
    <br/>
     <br/>
- <details><summary>
+ <details><summary ::marker>Github Stats
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BuketBurcu&show_icons=true&theme=gradient) 
    </summary>
   </details>
