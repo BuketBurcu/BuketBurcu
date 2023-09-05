@@ -7,6 +7,10 @@
    <a href="https://www.linkedin.com/in/buket-burcu-mercan-8234aa96/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
+    <br/>
+ <!--  <p align="left" dir="auto">
+     <a href="mailto:mercanbuket58@gmail.com"><img alt="Jupyter" src="https://camo.githubusercontent.com/598902b81c020e27505970e729fc974b79d83695c043123c9b4e05aeed2872f1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37652f476d61696c5f69636f6e5f253238323032302532392e737667" width="30" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="max-width: 100%;"></a>
+</p> -->
    <br/>
     <br/>
  <!-- <details><summary ::marker>Github Stats
