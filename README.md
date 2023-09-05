@@ -5,7 +5,7 @@
   <br/>
 
  
- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BuketBurcu&show_icons=true&theme=gradient) 
+<div align="center" >![Github stats 1](https://github-readme-stats.vercel.app/api?username=BuketBurcu&show_icons=true&theme=gradient) </div> 
 <br/>
 </br>  
  <a href="https://www.linkedin.com/in/buket-burcu-mercan-8234aa96/">
