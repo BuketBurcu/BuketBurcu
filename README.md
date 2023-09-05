@@ -2,7 +2,6 @@
 
 <div >
   Hi there 👋 
-  <br/>
     <br/>
     <br/>
    <a href="https://www.linkedin.com/in/buket-burcu-mercan-8234aa96/">
