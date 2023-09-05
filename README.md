@@ -9,10 +9,11 @@
  </a>
    <br/>
     <br/>
- <details><summary ::marker>Github Stats
+ <!-- <details><summary ::marker>Github Stats
    <img src="https://github-readme-stats.vercel.app/api?username=BuketBurcu&show_icons=true&theme=gradient" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nazlicankurt&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
    </summary>
-  </details>
+  </details> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=BuketBurcu&show_icons=true&theme=gradient" style="max-width: 100%;">
 <br/>
 </br>  
 
